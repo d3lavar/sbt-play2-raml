@@ -16,7 +16,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#sbt-play2-raml-build;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#sbt-play2-raml-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@106a3488[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bf7c60b[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -1766,7 +1766,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1331ms :: artifacts dl 54ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 673ms :: artifacts dl 19ms[0m
 [0m[[0mdebug[0m] [0m	report for default#sbt-play2-raml-build;0.1-SNAPSHOT compile produced in /home/d3lavar/work/sbt/sbt-play2-raml/project/target/resolution-cache/reports/default-sbt-play2-raml-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sbt-play2-raml-build;0.1-SNAPSHOT runtime produced in /home/d3lavar/work/sbt/sbt-play2-raml/project/target/resolution-cache/reports/default-sbt-play2-raml-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sbt-play2-raml-build;0.1-SNAPSHOT test produced in /home/d3lavar/work/sbt/sbt-play2-raml/project/target/resolution-cache/reports/default-sbt-play2-raml-build-test.xml[0m
@@ -1780,5 +1780,5 @@
 [0m[[0mdebug[0m] [0m	report for default#sbt-play2-raml-build;0.1-SNAPSHOT docs produced in /home/d3lavar/work/sbt/sbt-play2-raml/project/target/resolution-cache/reports/default-sbt-play2-raml-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sbt-play2-raml-build;0.1-SNAPSHOT pom produced in /home/d3lavar/work/sbt/sbt-play2-raml/project/target/resolution-cache/reports/default-sbt-play2-raml-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sbt-play2-raml-build;0.1-SNAPSHOT scala-tool produced in /home/d3lavar/work/sbt/sbt-play2-raml/project/target/resolution-cache/reports/default-sbt-play2-raml-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1331ms resolve - 54ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (673ms resolve - 19ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
