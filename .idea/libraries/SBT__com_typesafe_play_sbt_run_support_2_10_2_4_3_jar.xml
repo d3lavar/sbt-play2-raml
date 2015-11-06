@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.typesafe.play:sbt-run-support_2.10:2.4.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/jars/sbt-run-support_2.10-2.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/docs/sbt-run-support_2.10-2.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/srcs/sbt-run-support_2.10-2.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

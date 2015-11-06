@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: rtech#sbt-play2-raml;0.1.2-SNAPSHOT :: 0.1.2-SNAPSHOT :: integration :: Thu Nov 05 16:56:23 MSK 2015[0m
+[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Thu Nov 05 16:56:23 MSK 2015 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/d3lavar/work/sbt/sbt-play2-raml/target/scala-2.10/sbt-0.13/ivy-0.1.2-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (57ms)[0m

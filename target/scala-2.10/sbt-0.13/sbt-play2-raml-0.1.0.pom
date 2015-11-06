@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>rtech</groupId>
+    <artifactId>sbt-play2-raml</artifactId>
+    <packaging>jar</packaging>
+    <description>sbt-play2-raml</description>
+    <version>0.1.0</version>
+    <name>sbt-play2-raml</name>
+    <organization>
+        <name>rtech</name>
+    </organization>
+    <properties>
+        <scalaVersion>2.10</scalaVersion>
+        <sbtVersion>0.13</sbtVersion>
+        <extraDependencyAttributes xml:space="preserve">+e:sbtVersion:#@#:+0.13:#@#:+module:#@#:+sbt-plugin:#@#:+e:scalaVersion:#@#:+2.10:#@#:+organisation:#@#:+com.typesafe.play:#@#:+branch:#@#:+@#:NULL:#@:#@#:+revision:#@#:+2.4.3:#@#:</extraDependencyAttributes>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.10.4</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.scala-sbt</groupId>
+            <artifactId>sbt</artifactId>
+            <version>0.13.8</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.typesafe.play</groupId>
+            <artifactId>sbt-plugin</artifactId>
+            <version>2.4.3</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>jcenter</id>
+            <name>jcenter</name>
+            <url>https://jcenter.bintray.com/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>

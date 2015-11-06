@@ -1,0 +1,1 @@
+Index.PACKAGES = {"play2raml" : [{"case class" : "play2raml\/RoutesCompilationException.html", "name" : "play2raml.RoutesCompilationException"}, {"object" : "play2raml\/SbtPlay2Raml$.html", "name" : "play2raml.SbtPlay2Raml"}], "sbt" : [], "sbt.serialization" : []};
