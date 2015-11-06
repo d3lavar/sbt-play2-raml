@@ -4,7 +4,7 @@
 		module="sbt-play2-raml-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20151106114615"
+		publication="20151105144234"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
